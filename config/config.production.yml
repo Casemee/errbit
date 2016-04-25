@@ -9,7 +9,7 @@
 # You will need to restart the server after changing any settings.
 
 # The host of your errbit server
-host: errbit.example.com
+host: errbit.railscode.eu
 
 # The port for your errbit server.
 # Only set this if it isn't the default for the protocol (i.e.. 80 for HTTP, 443 for HTTPS)
@@ -24,7 +24,7 @@ enforce_ssl: false
 
 # The email address which email notifications
 # will be sent from.
-email_from: errbit@example.com
+email_from: errbit@railscode.eu
 
 # If you turn on this option, email_at_notices can be
 # configured on a per app basis, at the App edit page
